@@ -1,0 +1,48 @@
+C:\Users\bitstudent\source\repos\FirstProject\FirstProject\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\bitstudent\source\repos\FirstProject\FirstProject\bin\Debug\netcoreapp2.1\FirstProject.deps.json
+C:\Users\bitstudent\source\repos\FirstProject\FirstProject\bin\Debug\netcoreapp2.1\FirstProject.runtimeconfig.json
+C:\Users\bitstudent\source\repos\FirstProject\FirstProject\bin\Debug\netcoreapp2.1\FirstProject.runtimeconfig.dev.json
+C:\Users\bitstudent\source\repos\FirstProject\FirstProject\bin\Debug\netcoreapp2.1\FirstProject.dll
+C:\Users\bitstudent\source\repos\FirstProject\FirstProject\bin\Debug\netcoreapp2.1\FirstProject.pdb
+C:\Users\bitstudent\source\repos\FirstProject\FirstProject\obj\Debug\netcoreapp2.1\FirstProject.csprojAssemblyReference.cache
+C:\Users\bitstudent\source\repos\FirstProject\FirstProject\obj\Debug\netcoreapp2.1\FirstProject.AssemblyInfoInputs.cache
+C:\Users\bitstudent\source\repos\FirstProject\FirstProject\obj\Debug\netcoreapp2.1\FirstProject.AssemblyInfo.cs
+C:\Users\bitstudent\source\repos\FirstProject\FirstProject\obj\Debug\netcoreapp2.1\FirstProject.csproj.CoreCompileInputs.cache
+C:\Users\bitstudent\source\repos\FirstProject\FirstProject\obj\Debug\netcoreapp2.1\FirstProject.RazorAssemblyInfo.cache
+C:\Users\bitstudent\source\repos\FirstProject\FirstProject\obj\Debug\netcoreapp2.1\FirstProject.RazorAssemblyInfo.cs
+C:\Users\bitstudent\source\repos\FirstProject\FirstProject\obj\Debug\netcoreapp2.1\FirstProject.RazorTargetAssemblyInfo.cache
+C:\Users\bitstudent\source\repos\FirstProject\FirstProject\obj\Debug\netcoreapp2.1\FirstProject.dll
+C:\Users\bitstudent\source\repos\FirstProject\FirstProject\obj\Debug\netcoreapp2.1\FirstProject.pdb
+C:\Users\bitstudent\source\repos\FirstProject\FirstProject\obj\Debug\netcoreapp2.1\FirstProject.genruntimeconfig.cache
+C:\Users\bitstudent\Downloads\FirstProject\FirstProject\FirstProject\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\bitstudent\Downloads\FirstProject\FirstProject\FirstProject\bin\Debug\netcoreapp2.1\FirstProject.deps.json
+C:\Users\bitstudent\Downloads\FirstProject\FirstProject\FirstProject\bin\Debug\netcoreapp2.1\FirstProject.runtimeconfig.json
+C:\Users\bitstudent\Downloads\FirstProject\FirstProject\FirstProject\bin\Debug\netcoreapp2.1\FirstProject.runtimeconfig.dev.json
+C:\Users\bitstudent\Downloads\FirstProject\FirstProject\FirstProject\bin\Debug\netcoreapp2.1\FirstProject.dll
+C:\Users\bitstudent\Downloads\FirstProject\FirstProject\FirstProject\bin\Debug\netcoreapp2.1\FirstProject.pdb
+C:\Users\bitstudent\Downloads\FirstProject\FirstProject\FirstProject\obj\Debug\netcoreapp2.1\FirstProject.csprojAssemblyReference.cache
+C:\Users\bitstudent\Downloads\FirstProject\FirstProject\FirstProject\obj\Debug\netcoreapp2.1\FirstProject.AssemblyInfoInputs.cache
+C:\Users\bitstudent\Downloads\FirstProject\FirstProject\FirstProject\obj\Debug\netcoreapp2.1\FirstProject.AssemblyInfo.cs
+C:\Users\bitstudent\Downloads\FirstProject\FirstProject\FirstProject\obj\Debug\netcoreapp2.1\FirstProject.csproj.CoreCompileInputs.cache
+C:\Users\bitstudent\Downloads\FirstProject\FirstProject\FirstProject\obj\Debug\netcoreapp2.1\FirstProject.RazorAssemblyInfo.cache
+C:\Users\bitstudent\Downloads\FirstProject\FirstProject\FirstProject\obj\Debug\netcoreapp2.1\FirstProject.RazorAssemblyInfo.cs
+C:\Users\bitstudent\Downloads\FirstProject\FirstProject\FirstProject\obj\Debug\netcoreapp2.1\FirstProject.RazorTargetAssemblyInfo.cache
+C:\Users\bitstudent\Downloads\FirstProject\FirstProject\FirstProject\obj\Debug\netcoreapp2.1\FirstProject.dll
+C:\Users\bitstudent\Downloads\FirstProject\FirstProject\FirstProject\obj\Debug\netcoreapp2.1\FirstProject.pdb
+C:\Users\bitstudent\Downloads\FirstProject\FirstProject\FirstProject\obj\Debug\netcoreapp2.1\FirstProject.genruntimeconfig.cache
+C:\Users\jgoss\Homework\Fall 2020\.NetDev\FirstProject\FirstProject\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\jgoss\Homework\Fall 2020\.NetDev\FirstProject\FirstProject\bin\Debug\netcoreapp2.1\FirstProject.deps.json
+C:\Users\jgoss\Homework\Fall 2020\.NetDev\FirstProject\FirstProject\bin\Debug\netcoreapp2.1\FirstProject.runtimeconfig.json
+C:\Users\jgoss\Homework\Fall 2020\.NetDev\FirstProject\FirstProject\bin\Debug\netcoreapp2.1\FirstProject.runtimeconfig.dev.json
+C:\Users\jgoss\Homework\Fall 2020\.NetDev\FirstProject\FirstProject\bin\Debug\netcoreapp2.1\FirstProject.dll
+C:\Users\jgoss\Homework\Fall 2020\.NetDev\FirstProject\FirstProject\bin\Debug\netcoreapp2.1\FirstProject.pdb
+C:\Users\jgoss\Homework\Fall 2020\.NetDev\FirstProject\FirstProject\obj\Debug\netcoreapp2.1\FirstProject.csprojAssemblyReference.cache
+C:\Users\jgoss\Homework\Fall 2020\.NetDev\FirstProject\FirstProject\obj\Debug\netcoreapp2.1\FirstProject.AssemblyInfoInputs.cache
+C:\Users\jgoss\Homework\Fall 2020\.NetDev\FirstProject\FirstProject\obj\Debug\netcoreapp2.1\FirstProject.AssemblyInfo.cs
+C:\Users\jgoss\Homework\Fall 2020\.NetDev\FirstProject\FirstProject\obj\Debug\netcoreapp2.1\FirstProject.csproj.CoreCompileInputs.cache
+C:\Users\jgoss\Homework\Fall 2020\.NetDev\FirstProject\FirstProject\obj\Debug\netcoreapp2.1\FirstProject.RazorAssemblyInfo.cache
+C:\Users\jgoss\Homework\Fall 2020\.NetDev\FirstProject\FirstProject\obj\Debug\netcoreapp2.1\FirstProject.RazorAssemblyInfo.cs
+C:\Users\jgoss\Homework\Fall 2020\.NetDev\FirstProject\FirstProject\obj\Debug\netcoreapp2.1\FirstProject.RazorTargetAssemblyInfo.cache
+C:\Users\jgoss\Homework\Fall 2020\.NetDev\FirstProject\FirstProject\obj\Debug\netcoreapp2.1\FirstProject.dll
+C:\Users\jgoss\Homework\Fall 2020\.NetDev\FirstProject\FirstProject\obj\Debug\netcoreapp2.1\FirstProject.pdb
+C:\Users\jgoss\Homework\Fall 2020\.NetDev\FirstProject\FirstProject\obj\Debug\netcoreapp2.1\FirstProject.genruntimeconfig.cache
